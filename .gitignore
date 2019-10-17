@@ -3,5 +3,5 @@
 
 #expect for roundabout and gitignore
 !*/
-!roundabout.dart
+!roundabout.dart/
 !.gitignore
