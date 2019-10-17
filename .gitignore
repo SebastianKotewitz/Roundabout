@@ -1,0 +1,7 @@
+#everything
+*
+
+#expect for roundabout and gitignore
+!*/
+!roundabout.dart
+!.gitignore
